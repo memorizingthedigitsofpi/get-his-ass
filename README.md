@@ -1,7 +1,7 @@
 # get-his-ass
 Ides of March themed AO3 site skin
 
-CREATING A NEW SITE SKIN
+# CREATING A NEW SITE SKIN
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
@@ -14,4 +14,9 @@ In order to create a site skin, you need to have an AO3 account and you need to 
 7.  Paste the code into the CSS box of the new skin you are creating.
 8.  Afterwards, scroll to the bottom of the page and tap on the button labelled Submit. This will save your site skin and take you to a new page where you can see the title of your skin as well as all of the code.
 9.  On the site skin page, tap on the button labelled Use. You will now have this skin every time you're logged in on any device.
+
+# IMAGES
+
+![image](https://github.com/user-attachments/assets/b82e3143-2d04-4e34-bed1-051bb6894c2a)
+![image](https://github.com/user-attachments/assets/10d0cb3d-7476-4e9f-adb4-5453f0163bc3)
 
